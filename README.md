@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Nguyen Kim Quoc Khanh!
 
 ![Profile GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
@@ -11,8 +11,8 @@
 - 🌱 Currently learning **TypeScript & Next.js**
 - 👯 Open to collaborate on **Open Source projects**
 - 📝 Writing **clean and maintainable code**
-- 📫 Contact me: [email@example.com](mailto:email@example.com)
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 Contact me: [khanhnguyenkim30825@gmail.com](mailto:khanhnguyenkim30825@gmail.com)
+- 🌐 Portfolio: [nope](https://your-portfolio-link.com)
 
 ---
 
@@ -38,16 +38,14 @@
 ---
 
 ## 📂 Pinned Projects
-[![Project 1](https://img.shields.io/badge/Project-1-blue?style=flat)](https://github.com/your-username/project-1)  
-[![Project 2](https://img.shields.io/badge/Project-2-green?style=flat)](https://github.com/your-username/project-2)  
-[![Project 3](https://img.shields.io/badge/Project-3-orange?style=flat)](https://github.com/your-username/project-3)
+[![LMS Project](https://img.shields.io/badge/Project-1-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)]
 
 ---
 
 ## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanhnkq&show_icons=true&theme=radical)](https://github.com/khanhnkq)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnkq&layout=compact&theme=radical)](https://github.com/khanhnkq)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanhnkq&theme=radical)](https://github.com/khanhnkq)
 
 ---
 
