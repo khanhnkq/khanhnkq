@@ -45,11 +45,11 @@
 ## 📈 GitHub Stats
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanhnkq&show_icons=true&theme=radical)](https://github.com/khanhnkq)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnkq&layout=compact&theme=radical)](https://github.com/khanhnkq)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanhnkq&theme=radical)](https://github.com/khanhnkq)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=khanhnkq&theme=radical)](https://github.com/khanhnkq)
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/khanh-nguyen-37a73031a/))  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanhnguyenkim30825@gmail.com)
