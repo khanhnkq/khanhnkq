@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]!
 
-<!--
-**khanhnkq/khanhnkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F7CFF&width=435&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 About Me
+- 💻 Passionate about **Java, Spring Boot, JavaScript & React**
+- 🌱 Currently learning **TypeScript & Next.js**
+- 👯 Open to collaborate on **Open Source projects**
+- 📝 Writing **clean and maintainable code**
+- 📫 Contact me: [email@example.com](mailto:email@example.com)
+- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+
+---
+
+## 🛠️ Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 📂 Pinned Projects
+[![Project 1](https://img.shields.io/badge/Project-1-blue?style=flat)](https://github.com/your-username/project-1)  
+[![Project 2](https://img.shields.io/badge/Project-2-green?style=flat)](https://github.com/your-username/project-2)  
+[![Project 3](https://img.shields.io/badge/Project-3-orange?style=flat)](https://github.com/your-username/project-3)
+
+---
+
+## 📈 GitHub Stats
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/your-username)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:email@example.com)
