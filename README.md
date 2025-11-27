@@ -38,7 +38,7 @@
 ---
 
 ## 📂 Pinned Projects
-[![LMS Project](https://img.shields.io/badge/Project-1-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)]
+[![LMS Project](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)
 
 ---
 
