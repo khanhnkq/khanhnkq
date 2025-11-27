@@ -2,7 +2,7 @@
 
 ![Profile GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F7CFF&width=435&lines=Full+Stack+Developer+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F7CFF&width=435&lines=Full+Stack+Developer+%7C)](https://git.io/typing-svg)
 
 ---
 
