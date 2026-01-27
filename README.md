@@ -39,8 +39,8 @@
 
 ## 📂 Pinned Projects
 [![LMS Project](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)
-[![EGOV Project](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/HoangLeoO/project_module4_dvc)
-[![QUIZKEN - Learning hub](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/khanhnkq/quizken)
+[![EGOV Project](https://img.shields.io/badge/EGOV-Project-red?style=flat)](https://github.com/HoangLeoO/project_module4_dvc)
+[![QUIZKEN - Learning hub](https://img.shields.io/badge/QUIZKEN-Project-green?style=flat)](https://github.com/khanhnkq/quizken)
 
 
 ---
