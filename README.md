@@ -12,7 +12,7 @@
 - 👯 Open to collaborate on **Open Source projects**
 - 📝 Writing **clean and maintainable code**
 - 📫 Contact me: [khanhnguyenkim30825@gmail.com](mailto:khanhnguyenkim30825@gmail.com)
-- 🌐 Portfolio: [nope](https://your-portfolio-link.com)
+- 🌐 Portfolio: [https://khanhnkq.vercel.app]((https://khanhnkq.vercel.app/))
 
 ---
 
@@ -39,8 +39,10 @@
 
 ## 📂 Pinned Projects
 [![LMS Project](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)
-[![EGOV Project](https://img.shields.io/badge/EGOV-Project-red?style=flat)](https://github.com/HoangLeoO/project_module4_dvc)
-[![QUIZKEN - Learning hub](https://img.shields.io/badge/QUIZKEN-Project-green?style=flat)](https://github.com/khanhnkq/quizken)
+[![EGOV Project](https://img.shields.io/badge/EGOV-Project-red?style=flat)](https://egov-cg.duckdns.org/)
+[![QUIZKEN - Learning hub](https://img.shields.io/badge/QUIZKEN-Project-green?style=flat)](https://quizken.vercel.app)
+[![Connect - Social Platform](https://img.shields.io/badge/QUIZKEN-Project-green?style=flat)](https://connect-cg.vercel.app)
+
 
 
 ---
