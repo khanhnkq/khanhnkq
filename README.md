@@ -1,55 +1,83 @@
-# Hi there 👋, I'm Nguyen Kim Quoc Khanh!
+# Nguyen Kim Quoc Khanh
 
-![Profile GIF](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+> **Full-stack Software Engineer** based in Vietnam  
+> Specialized in scalable backend architectures, interactive frontends, and production-grade AI systems.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0F7CFF&width=435&lines=Full+Stack+Developer+%7C)](https://git.io/typing-svg)
-
----
-
-## 🔭 About Me
-- 💻 Passionate about **Java, Spring Boot, JavaScript & React**
-- 🌱 Currently learning **TypeScript & Next.js**
-- 👯 Open to collaborate on **Open Source projects**
-- 📝 Writing **clean and maintainable code**
-- 📫 Contact me: [khanhnguyenkim30825@gmail.com](mailto:khanhnguyenkim30825@gmail.com)
-- 🌐 Portfolio: [https://khanhnkq.vercel.app]((https://khanhnkq.quizken.com/))
+[Portfolio](https://khanhnkq.quizken.com) &nbsp;•&nbsp; [Email](mailto:khanhnguyenkim30825@gmail.com) &nbsp;•&nbsp; [LinkedIn](https://www.linkedin.com/in/khanh-nguyen-37a73031a/) &nbsp;•&nbsp; [GitHub](https://github.com/khanhnkq)
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+### Overview
 
+Full-stack Software Engineer with hands-on experience in building robust production systems and high-throughput architectures. Deep expertise in **Java (Spring Boot)**, **Python (FastAPI)**, and modern frontend ecosystems (**React**, **Next.js 16**). Experienced in designing autonomous AI agent workflows, custom RAG pipelines, distributed caching, and media storage pipelines.
 
 ---
 
-## 🌱 Currently Learning
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+### Technical Focus
+
+- **Languages:** Java, Python, TypeScript, JavaScript, SQL
+- **Backend:** Spring Boot, FastAPI, Clean Architecture, Modular Monoliths, RESTful APIs
+- **Frontend:** React, Next.js 16, Vue.js, Tailwind CSS, GSAP, Framer Motion
+- **AI & Data:** Autonomous AI Agents, Custom RAG, Vector Databases, Prompt Caching, OpenAI APIs
+- **Data & Infrastructure:** PostgreSQL, MySQL, Supabase, RabbitMQ, Valkey / Redis, Garage Storage (S3-compatible)
+- **DevOps & Tooling:** Docker, Nginx, Cloudflare Tunnel, FFmpeg, Git
 
 ---
 
-## 📂 Pinned Projects
-[![LMS Project](https://img.shields.io/badge/LMS-Project-blue?style=flat)](https://github.com/HoangLeoO/quan_ly_khoa_hoc)
-[![EGOV Project](https://img.shields.io/badge/EGOV-Project-red?style=flat)](https://egov-cg.duckdns.org/)
-[![QUIZKEN - Learning hub](https://img.shields.io/badge/QUIZKEN-Project-green?style=flat)](https://quizken.vercel.app)
-[![Connect - Social Platform](https://img.shields.io/badge/Connect-Project-green?style=flat)](https://connect-cg.vercel.app)
+### Experience
 
+#### **Techzen Limited Company**
+*Full-stack Fresher* — **TechEvent** *(Enterprise Event SaaS)*  
+`FastAPI` · `Vue.js` · `PostgreSQL` · `OpenAI API` · `Vector DB` · `RAG`
 
-
----
-
-## 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanhnkq&show_icons=true&theme=radical)](https://github.com/khanhnkq)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khanhnkq&layout=compact&theme=radical)](https://github.com/khanhnkq)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=khanhnkq&theme=radical)](https://github.com/khanhnkq)
+- Architected a production-grade AI agent framework from the ground up featuring autonomous planning, tool orchestration, persistent memory, and RAG without external agent dependencies.
+- Developed a constraint-aware planning engine and incremental replanning algorithm to generate conflict-free schedules and budgets under dynamic operational constraints.
+- Engineered intelligent web search pipelines to collect flight, accommodation, and venue data from public sources, minimizing reliance on third-party paid APIs.
+- Implemented prompt caching with an **83% cache hit rate**, significantly reducing token costs and end-to-end response latency.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/khanh-nguyen-37a73031a/))  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:khanhnguyenkim30825@gmail.com)
+### Featured Projects
+
+#### 1. [FEED.IO](https://feedi.quizken.com) — Open-Source Video Review & Collaboration Platform
+`Next.js 16` · `FastAPI` · `PostgreSQL` · `RabbitMQ` · `Valkey` · `Garage S3` · `FFmpeg` · `Docker`  
+[Live Demo](https://feedi.quizken.com) &nbsp;•&nbsp; [Source Code](https://github.com/khanhnkq/feed.io)
+
+- Engineered a Clean Architecture Modular Monolith with a custom frame-accurate SMPTE timecode video player (HLS.js, GSAP) supporting canvas annotations and side-by-side version comparison.
+- Built a direct-to-storage multipart chunked upload pipeline to Garage S3 via presigned URLs with checksum verification, removing API server I/O bottlenecks for 4K/ProRes source files.
+- Implemented an asynchronous background transcoding pipeline using RabbitMQ and FFmpeg for multi-rendition HLS adaptive bitrate streaming and sprite sheet thumbnail generation.
+- Integrated WebSockets and Valkey Pub/Sub for real-time multiplayer presence and secured deployment through Cloudflare Tunnel with zero open inbound ports.
+
+#### 2. [QUIZKEN](https://quizken.com) — Interactive AI Learning Platform
+`React 18` · `TypeScript` · `Tailwind CSS` · `Supabase` · `GSAP` · `Framer Motion` · `AI APIs`  
+[Live Demo](https://quizken.com)
+
+- Created and deployed a gamified learning platform reaching **5,000+ monthly visits** and **200+ registered users** in its early stage.
+- Integrated LLM APIs to power dynamic quiz generation, context-aware answer evaluation, and real-time AI tutoring.
+- Optimized client-side state and caching using Zustand and React Query, reducing redundant API requests and ensuring sub-second UI interactions.
+
+#### 3. [CONNECTCG](https://connect.quizken.com) — Scalable Social Platform
+`Spring Boot` · `React` · `PostgreSQL` · `RabbitMQ` · `Valkey` · `Garage Storage` · `Docker`  
+[Live Demo](https://connect.quizken.com) &nbsp;•&nbsp; [Source Code](https://github.com/khanhnkq/connectCG)
+
+- Developed core social features including feed streams, nested discussions, instant messaging, and multi-channel notifications.
+- Secured user authentication and access control with JWT and OAuth2; established asynchronous event queues via RabbitMQ and distributed rate-limiting via Valkey.
+- Configured Garage S3-compatible object storage for media assets and deployed production workloads via Docker and Nginx.
+
+---
+
+### Education
+
+- **Vietnam - Korea University of Information and Communication Technology (VKU)**  
+  *Bachelor of Computer Science*
+- **CodeGym Da Nang**  
+  *Full-stack Developer Training Program*
+
+---
+
+### Contact
+
+- **Website:** [khanhnkq.quizken.com](https://khanhnkq.quizken.com)
+- **Email:** [khanhnguyenkim30825@gmail.com](mailto:khanhnguyenkim30825@gmail.com)
+- **LinkedIn:** [linkedin.com/in/khanh-nguyen-37a73031a](https://www.linkedin.com/in/khanh-nguyen-37a73031a/)
+- **Location:** Da Nang / Ho Chi Minh City, Vietnam
